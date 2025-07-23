@@ -39,13 +39,11 @@ No installation needed! Run directly in your browser with Google Colab:
 2. Open the notebook file:  
    `Client_Strategy_Analysis_for_Banking_Analytics.ipynb`
 
-3. Click **“Open in Colab”** at the top of the notebook preview.
+3. You can view all of the code
 
-4. Run all cells by selecting **Runtime > Run all**.
+4. Scroll down to see all of the Machine Learning predictions and analysis
 
-5. The csv files are automatically loaded, taken from github
-   
-6. Explore the interactive tables, graphs, and recommendations generated automatically.
+5. All the data can be changed based on any Excel/CSV files
 
 ---
 
